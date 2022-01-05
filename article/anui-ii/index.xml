@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AXA</title>
-    <link>https://axa.ro/article/anui-ii/</link>
+    <link>https://axaneamului.github.io/article/anui-ii/</link>
     <description>Recent content on AXA</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ro</language><atom:link href="https://axa.ro/article/anui-ii/index.xml" rel="self" type="application/rss+xml" />
+    <language>ro</language><atom:link href="https://axaneamului.github.io/article/anui-ii/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
