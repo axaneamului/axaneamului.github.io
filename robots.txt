@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://axaneamului.github.io/sitemap.xml
+Sitemap: https://axaneamului.ro/sitemap.xml
