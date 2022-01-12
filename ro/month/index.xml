@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Month on AXA</title>
+    <link>https://axaneamului.ro/ro/month/</link>
+    <description>Recent content in Month on AXA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ro</language>
+    <copyright>Copyright © {year} AXA. Toate drepturile rezervate.</copyright>
+    <lastBuildDate>Wed, 01 Apr 2009 02:15:00 +0000</lastBuildDate><atom:link href="https://axaneamului.ro/ro/month/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2009-04</title>
+      <link>https://axaneamului.ro/ro/month/2009-04/</link>
+      <pubDate>Wed, 01 Apr 2009 02:15:00 +0000</pubDate>
+      
+      <guid>https://axaneamului.ro/ro/month/2009-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2008-05</title>
+      <link>https://axaneamului.ro/ro/month/2008-05/</link>
+      <pubDate>Fri, 23 May 2008 11:40:00 +0000</pubDate>
+      
+      <guid>https://axaneamului.ro/ro/month/2008-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2008-04</title>
+      <link>https://axaneamului.ro/ro/month/2008-04/</link>
+      <pubDate>Fri, 18 Apr 2008 04:20:00 +0000</pubDate>
+      
+      <guid>https://axaneamului.ro/ro/month/2008-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2008-03</title>
+      <link>https://axaneamului.ro/ro/month/2008-03/</link>
+      <pubDate>Fri, 21 Mar 2008 09:02:00 +0000</pubDate>
+      
+      <guid>https://axaneamului.ro/ro/month/2008-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2008-02</title>
+      <link>https://axaneamului.ro/ro/month/2008-02/</link>
+      <pubDate>Fri, 29 Feb 2008 08:31:00 +0000</pubDate>
+      
+      <guid>https://axaneamului.ro/ro/month/2008-02/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
