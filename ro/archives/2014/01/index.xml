@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ianuarie on AXA</title>
-    <link>/ro/archives/2014/01/</link>
+    <link>https://axaneamului.ro/ro/archives/2014/01/</link>
     <description>Recent content in Ianuarie on AXA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ro</language>
-    <copyright>Copyright © {year} AXA. Toate drepturile rezervate.</copyright><atom:link href="/ro/archives/2014/01/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © {year} AXA. Toate drepturile rezervate.</copyright><atom:link href="https://axaneamului.ro/ro/archives/2014/01/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

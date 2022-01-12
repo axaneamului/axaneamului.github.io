@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Axa 36 on AXA</title>
-    <link>/ro/posts/axa-iii/36/</link>
+    <link>https://axaneamului.ro/ro/posts/axa-iii/36/</link>
     <description>Recent content in Axa 36 on AXA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ro</language>
-    <copyright>Copyright © {year} AXA. Toate drepturile rezervate.</copyright><atom:link href="/ro/posts/axa-iii/36/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © {year} AXA. Toate drepturile rezervate.</copyright><atom:link href="https://axaneamului.ro/ro/posts/axa-iii/36/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

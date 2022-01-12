@@ -2,88 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/authors/</loc>
+    <loc>https://axaneamului.ro/en/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
-                href="/ro/authors/"
+                href="https://axaneamului.ro/ro/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/authors/"
+                href="https://axaneamului.ro/en/authors/"
                 />
   </url><url>
-    <loc>/en/categories/</loc>
+    <loc>https://axaneamului.ro/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
-                href="/ro/categories/"
+                href="https://axaneamului.ro/ro/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://axaneamului.ro/en/categories/"
                 />
   </url><url>
-    <loc>/en/</loc>
+    <loc>https://axaneamului.ro/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
-                href="/ro/"
+                href="https://axaneamului.ro/ro/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://axaneamului.ro/en/"
                 />
   </url><url>
-    <loc>/en/month/</loc>
+    <loc>https://axaneamului.ro/en/month/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
-                href="/ro/month/"
+                href="https://axaneamului.ro/ro/month/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/month/"
+                href="https://axaneamului.ro/en/month/"
                 />
   </url><url>
-    <loc>/en/series/</loc>
+    <loc>https://axaneamului.ro/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
-                href="/ro/series/"
+                href="https://axaneamului.ro/ro/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/"
+                href="https://axaneamului.ro/en/series/"
                 />
   </url><url>
-    <loc>/en/tags/</loc>
+    <loc>https://axaneamului.ro/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
-                href="/ro/tags/"
+                href="https://axaneamului.ro/ro/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://axaneamului.ro/en/tags/"
                 />
   </url><url>
-    <loc>/en/year/</loc>
+    <loc>https://axaneamului.ro/en/year/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ro"
-                href="/ro/year/"
+                href="https://axaneamului.ro/ro/year/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/year/"
+                href="https://axaneamului.ro/en/year/"
                 />
   </url>
 </urlset>
