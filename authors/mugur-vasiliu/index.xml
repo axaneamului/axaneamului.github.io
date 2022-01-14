@@ -7,60 +7,384 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ro</language>
     <copyright>Copyright © {year} AXA. Toate drepturile rezervate.</copyright>
-    <lastBuildDate>Wed, 01 Apr 2009 01:52:00 +0000</lastBuildDate><atom:link href="https://axaneamului.ro/authors/mugur-vasiliu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jun 2016 03:26:00 +0800</lastBuildDate><atom:link href="https://axaneamului.ro/authors/mugur-vasiliu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Conferință la Suceava (31 martie 2016)</title>
+      <link>https://axaneamului.ro/posts/tv/conferinta-la-suceava-31-martie-2016/</link>
+      <pubDate>Mon, 06 Jun 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/conferinta-la-suceava-31-martie-2016/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Conferință la Constanța (20 aprilie 2016)</title>
+      <link>https://axaneamului.ro/posts/tv/conferinta-la-constanta-20-aprilie-2016/</link>
+      <pubDate>Tue, 24 May 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/conferinta-la-constanta-20-aprilie-2016/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Construirea moscheei și Iohannis turcitul</title>
+      <link>https://axaneamului.ro/posts/tv/construirea-moscheei-si-iohannis-turcitul/</link>
+      <pubDate>Mon, 28 Mar 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/construirea-moscheei-si-iohannis-turcitul/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Țara arde și președintele se piaptănă</title>
+      <link>https://axaneamului.ro/posts/tv/tara-arde-si-presedintele-se-piaptana/</link>
+      <pubDate>Thu, 17 Mar 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/tara-arde-si-presedintele-se-piaptana/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>România din afara Țării</title>
+      <link>https://axaneamului.ro/posts/tv/romania-din-afara-tarii/</link>
+      <pubDate>Wed, 09 Mar 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/romania-din-afara-tarii/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Pastila 5: Dezgroparea lui Ion Iliescu</title>
+      <link>https://axaneamului.ro/posts/tv/pastila-5-dezgroparea-lui-ion-iliescu/</link>
+      <pubDate>Sat, 27 Feb 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/pastila-5-dezgroparea-lui-ion-iliescu/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Terorismul Elie Wiesel și Holocaustul Culturii Românești</title>
+      <link>https://axaneamului.ro/posts/tv/terorismul-elie-wiesel-si-holocaustul-culturii-romanesti/</link>
+      <pubDate>Thu, 25 Feb 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/terorismul-elie-wiesel-si-holocaustul-culturii-romanesti/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Legionarismul - O încheiere</title>
+      <link>https://axaneamului.ro/posts/tv/legionarismul-o-incheiere/</link>
+      <pubDate>Wed, 24 Feb 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/legionarismul-o-incheiere/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Legionarismul - Căpitanul nostru</title>
+      <link>https://axaneamului.ro/posts/tv/legionarismul-capitanul-nostru/</link>
+      <pubDate>Fri, 19 Feb 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/legionarismul-capitanul-nostru/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Legionarismul - Trebuie să știm povestea!</title>
+      <link>https://axaneamului.ro/posts/tv/legionarismul-trebuie-sa-stim-povestea/</link>
+      <pubDate>Wed, 17 Feb 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/legionarismul-trebuie-sa-stim-povestea/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Legionarismul - Observații generale</title>
+      <link>https://axaneamului.ro/posts/tv/legionarismul-observatii-generale/</link>
+      <pubDate>Tue, 16 Feb 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/legionarismul-observatii-generale/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Naționalist sau patriot - erou-martir sau victimă I</title>
+      <link>https://axaneamului.ro/posts/tv/nationalist-sau-patriot-erou-martir-sau-victima-i/</link>
+      <pubDate>Fri, 12 Feb 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/nationalist-sau-patriot-erou-martir-sau-victima-i/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Minunea ca piatră de poticnire</title>
+      <link>https://axaneamului.ro/posts/tv/minunea-ca-piatra-de-poticnire/</link>
+      <pubDate>Thu, 11 Feb 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/minunea-ca-piatra-de-poticnire/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Noi, alegătorii...</title>
+      <link>https://axaneamului.ro/posts/tv/noi-alegatorii/</link>
+      <pubDate>Tue, 09 Feb 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/noi-alegatorii/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>România în europubelă</title>
+      <link>https://axaneamului.ro/posts/tv/romania-in-europubela/</link>
+      <pubDate>Sun, 07 Feb 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/romania-in-europubela/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Realitatea conspirației</title>
+      <link>https://axaneamului.ro/posts/tv/realitatea-conspiratiei/</link>
+      <pubDate>Sat, 06 Feb 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/realitatea-conspiratiei/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Românul ignorant și viclenia mass-mediei</title>
+      <link>https://axaneamului.ro/posts/tv/romanul-ignorant-si-viclenia-mass-mediei/</link>
+      <pubDate>Thu, 04 Feb 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/romanul-ignorant-si-viclenia-mass-mediei/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Minciuni și minciunele</title>
+      <link>https://axaneamului.ro/posts/tv/minciuni-si-minciunele/</link>
+      <pubDate>Wed, 03 Feb 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/minciuni-si-minciunele/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Mineriada I</title>
+      <link>https://axaneamului.ro/posts/tv/mineriada-i/</link>
+      <pubDate>Sat, 30 Jan 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/mineriada-i/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Sfinții închisorilor I</title>
+      <link>https://axaneamului.ro/posts/tv/sfintii-inchisorilor-i/</link>
+      <pubDate>Thu, 28 Jan 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/sfintii-inchisorilor-i/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Bomba cu migratori</title>
+      <link>https://axaneamului.ro/posts/tv/bomba-cu-migratori/</link>
+      <pubDate>Wed, 27 Jan 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/bomba-cu-migratori/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Cod roșu de migratori</title>
+      <link>https://axaneamului.ro/posts/tv/cod-rosu-de-migratori/</link>
+      <pubDate>Wed, 27 Jan 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/cod-rosu-de-migratori/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Cât ne mai batem joc de Eminescu</title>
+      <link>https://axaneamului.ro/posts/tv/cat-ne-mai-batem-joc-de-eminescu/</link>
+      <pubDate>Wed, 27 Jan 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/cat-ne-mai-batem-joc-de-eminescu/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Pastila 5: Migratorii - Educație anticreștină</title>
+      <link>https://axaneamului.ro/posts/tv/pastila-5-migratorii-educatie-anticrestina/</link>
+      <pubDate>Tue, 26 Jan 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/pastila-5-migratorii-educatie-anticrestina/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Cum se pune problema</title>
+      <link>https://axaneamului.ro/posts/tv/cum-se-pune-problema/</link>
+      <pubDate>Mon, 25 Jan 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/cum-se-pune-problema/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Pastila 5: Papa Kiril și Sinodul</title>
+      <link>https://axaneamului.ro/posts/tv/pastila-5-papa-kiril-si-sinodul/</link>
+      <pubDate>Sun, 24 Jan 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/pastila-5-papa-kiril-si-sinodul/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Pastila 5: Întrebări migratoare</title>
+      <link>https://axaneamului.ro/posts/tv/pastila-5-intrebari-migratoare/</link>
+      <pubDate>Sun, 24 Jan 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/pastila-5-intrebari-migratoare/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Pastila 5: Migratorii</title>
+      <link>https://axaneamului.ro/posts/tv/pastila-5-migratorii/</link>
+      <pubDate>Sat, 23 Jan 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/pastila-5-migratorii/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Votul alb sau... HAI S-O FACEM!</title>
+      <link>https://axaneamului.ro/posts/tv/votul-alb-sau-hai-s-o-facem/</link>
+      <pubDate>Wed, 20 Jan 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/votul-alb-sau-hai-s-o-facem/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Românul, politica și votul alb</title>
+      <link>https://axaneamului.ro/posts/tv/romanul-politica-si-votul-alb/</link>
+      <pubDate>Tue, 19 Jan 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/romanul-politica-si-votul-alb/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Pisica neagră sau jocul de-a migratorii</title>
+      <link>https://axaneamului.ro/posts/tv/pisica-neagra-sau-jocul-de-a-migratorii/</link>
+      <pubDate>Fri, 15 Jan 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/pisica-neagra-sau-jocul-de-a-migratorii/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Jertfa Intelectualului sau despre Românul absolut - 13 ianuarie 1937</title>
+      <link>https://axaneamului.ro/posts/tv/jertfa-intelectualului-sau-despre-romanul-absolut-13-ianuarie-1937/</link>
+      <pubDate>Wed, 13 Jan 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/jertfa-intelectualului-sau-despre-romanul-absolut-13-ianuarie-1937/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Ție nu ți-e frică</title>
+      <link>https://axaneamului.ro/posts/tv/tie-nu-ti-e-frica/</link>
+      <pubDate>Sat, 09 Jan 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/tie-nu-ti-e-frica/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Credință și tradiții nemțene - 1/2</title>
+      <link>https://axaneamului.ro/posts/tv/2011-07-31-credinta-si-traditii-nemtene-1/</link>
+      <pubDate>Thu, 10 Nov 2011 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/2011-07-31-credinta-si-traditii-nemtene-1/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Credință și tradiții nemțene - 2/2</title>
+      <link>https://axaneamului.ro/posts/tv/2011-07-31-credinta-si-traditii-nemtene-2/</link>
+      <pubDate>Fri, 18 Mar 2011 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/2011-07-31-credinta-si-traditii-nemtene-2/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Curs de Tradiție. Naționalism vs. patriotism (2011)</title>
+      <link>https://axaneamului.ro/posts/tv/curs-de-traditie.-nationalism-vs.-patriotism-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/tv/curs-de-traditie.-nationalism-vs.-patriotism-2011/</guid>
+      <description>   </description>
+    </item>
+    
     <item>
       <title>Biserica Ortodoxă Română: A avea sau a nu avea… Sinod</title>
-      <link>https://axaneamului.ro/posts/axa-ii/14/biserica-ortodoxa-romana-a-avea-sau-a-nu-avea-sinod/</link>
+      <link>https://axaneamului.ro/posts/magazine/axa-ii/14/biserica-ortodoxa-romana-a-avea-sau-a-nu-avea-sinod/</link>
       <pubDate>Wed, 01 Apr 2009 01:52:00 +0000</pubDate>
       
-      <guid>https://axaneamului.ro/posts/axa-ii/14/biserica-ortodoxa-romana-a-avea-sau-a-nu-avea-sinod/</guid>
+      <guid>https://axaneamului.ro/posts/magazine/axa-ii/14/biserica-ortodoxa-romana-a-avea-sau-a-nu-avea-sinod/</guid>
       <description>Sunt momente în istorie, momente de cumpănă, când cea mai firească metodă de înţelegere a realităţii pare a fi metoda milenaristă; un fel de fatalism îngrozitor, de apocalipsă continuă – ca aşteptare şi ca perioadă premergătoare, imediat premergătoare. Se simte fumul de pucioasă şi dogoarea flăcărilor ce stau să vie. Sfârşitul pare a fi chiar lângă noi – dacă am face reclamă am spune: iadul e lângă tine, pentru că tu meriţi ce-i cel mai bun!</description>
     </item>
     
     <item>
       <title>„Democratizarea” libertății</title>
-      <link>https://axaneamului.ro/posts/axa-i/9/democratizarea-libertatii/</link>
+      <link>https://axaneamului.ro/posts/magazine/axa-i/9/democratizarea-libertatii/</link>
       <pubDate>Fri, 11 Apr 2008 03:26:00 +0000</pubDate>
       
-      <guid>https://axaneamului.ro/posts/axa-i/9/democratizarea-libertatii/</guid>
+      <guid>https://axaneamului.ro/posts/magazine/axa-i/9/democratizarea-libertatii/</guid>
       <description>Deşi „pare că părerea” generală ne îndeamnă să acceptăm, noi ne încăpăţânăm să punem iar şi iar în discuţie concepte care au căpătat – cărora li s-a dat – valoare de adevăr de necontestat. Vorbim, mai precis, despre clişee ideologice şi verbale. Unul dintre clişeele cel mai bine înţepenite în conştiinţa lumii contemporane este clişeul “democraţie”.
 Ca urmare, nimeni nu se mai întreabă nici ce este – în fond – democraţia, şi nici dacă democraţia chiar este – aşa cum se spune peste tot – rezolvarea tuturor problemelor vieţii omului pe pământ.</description>
     </item>
     
     <item>
       <title>Nădejdea şi înşelarea</title>
-      <link>https://axaneamului.ro/posts/axa-i/8/nadejdea-si-inselarea/</link>
+      <link>https://axaneamului.ro/posts/magazine/axa-i/8/nadejdea-si-inselarea/</link>
       <pubDate>Fri, 04 Apr 2008 05:16:00 +0000</pubDate>
       
-      <guid>https://axaneamului.ro/posts/axa-i/8/nadejdea-si-inselarea/</guid>
+      <guid>https://axaneamului.ro/posts/magazine/axa-i/8/nadejdea-si-inselarea/</guid>
       <description>Un tot mai aspru vânt de neputinţă bate peste noi în ultimii ani. Un vânt dinspre laşitate spre înţelepciune. Deznădejdea îşi arată colţii – nu doar – ci a trecut la treabă. Cei muşcaţi ori pleacă spre alte lumi – sau altă lume – ori se resemnează. E un vânt căldicel care îţi zdruncină firea – nu mai ştii, nu mai poţi să-ţi aminteşti dacă a fost sau dacă ar putea fi şi altfel.</description>
     </item>
     
     <item>
       <title>Despre politică și politicianism</title>
-      <link>https://axaneamului.ro/posts/axa-i/4-5/despre-politica-si-politicianism/</link>
+      <link>https://axaneamului.ro/posts/magazine/axa-i/4-5/despre-politica-si-politicianism/</link>
       <pubDate>Fri, 29 Feb 2008 07:52:00 +0000</pubDate>
       
-      <guid>https://axaneamului.ro/posts/axa-i/4-5/despre-politica-si-politicianism/</guid>
+      <guid>https://axaneamului.ro/posts/magazine/axa-i/4-5/despre-politica-si-politicianism/</guid>
       <description>Acum mai bine de un secol, Eminescu trasa linia de demarcaţie între două categorii de indivizi care aveau ca “meserie” conducerea statului, politica. Astfel există o categorie alcătuită din politicieni şi alta din oameni politici. Deşi pentru noi mai puţin vizibilă, diferenţa între aceste două categorii este aceea că, spre deosebire de oamenii politici, politicienii îşi folosesc poziţia socială, obţinută prin practicarea politicii, în interes personal.
 În general noi înţelegem acelaşi lucru prin cei doi termeni, cu observaţia că “cei care fac politica” sunt, de obicei, răi dar că există – trebuie să existe – şi unii buni.</description>
     </item>
     
     <item>
       <title>Ortodoxia fără Duhovnic</title>
-      <link>https://axaneamului.ro/posts/axa-i/2/ortodoxia-fara-duhovnic/</link>
+      <link>https://axaneamului.ro/posts/magazine/axa-i/2/ortodoxia-fara-duhovnic/</link>
       <pubDate>Fri, 08 Feb 2008 05:26:00 +0000</pubDate>
       
-      <guid>https://axaneamului.ro/posts/axa-i/2/ortodoxia-fara-duhovnic/</guid>
+      <guid>https://axaneamului.ro/posts/magazine/axa-i/2/ortodoxia-fara-duhovnic/</guid>
       <description>Cea mai importantă problemă cu care se confruntă lumea de azi este poziţia faţă de credinţă sau mai precis raportul nostru cu Dumnezeu. Ca urmare a unor propagande susţinute şi concertate, s-au întipărit în mintea noastră – de oameni moderni – nişte clişee, pe care cu mare greutate le mai poate schimba cineva. Astfel, noi suntem “o ţară mică”, “eu am Dumnezeul meu”, “toate credinţele duc în acelaşi loc”, “Dumnezeu e doar în sufletul omului” şamd.</description>
     </item>
     
     <item>
       <title>Stânga - dreapta</title>
-      <link>https://axaneamului.ro/posts/axa-i/1/stanga-dreapta/</link>
+      <link>https://axaneamului.ro/posts/magazine/axa-i/1/stanga-dreapta/</link>
       <pubDate>Fri, 01 Feb 2008 02:58:00 +0000</pubDate>
       
-      <guid>https://axaneamului.ro/posts/axa-i/1/stanga-dreapta/</guid>
+      <guid>https://axaneamului.ro/posts/magazine/axa-i/1/stanga-dreapta/</guid>
       <description>În politica oricărei cetăţi – în istoria omenirii – există doar două direcţii. E ceea ce cunoaştem noi sub numele de dreapta şi stânga. Sunt două tendinţe pe care le suportă ca pe o sfâşiere fiinţa umană: dreapta credinţă, dreapta judecată, dreapta cumpănă – de-o parte; de cealaltă parte cealaltă credinţă, cealaltă judecată, stângăcia şi strâmbătatea.
 Aceste două porniri îşi au expresia şi în politică: stânga şi dreapta sau liberalism şi conservatorism.</description>
     </item>
