@@ -190,7 +190,11 @@
         {{/categories}}{{#tags}}
         <a href="https://axaneamului.rotags/{{#url}}{{.}}{{/url}}/" class="badge rounded-pill post-taxonomy">{{.}}</a>
         {{/tags}}</div>
-      <div class="search-result-content mb-3">{{{#img}}}<img src="{{{img}}}"/>{{{/img}}}{{{content}}}</div>
+      <div class="search-result-content mb-3">
+        {{#img}}<img src="{{img}}"/>{{/img}}
+        {{#youtube}}<div><iframe src="https://www.youtube.com/embed/{{youtube}}?autoplay=1" allowfullscreen title="{{title}}"></iframe></div>{{/youtube}}
+        {{{content}}}
+      </div>
     </div>
   </div>
 </script>
@@ -245,5 +249,5 @@ if (!doNotTrack) {
   window.searchResultContentWordCount = parseInt('240');
   window.searchPaginate = parseInt('10');
   window.fuseOptions = JSON.parse('{\u0022includeScore\u0022:true,\u0022keys\u0022:[\u0022title\u0022,\u0022author\u0022,\u0022content\u0022],\u0022threshold\u0022:0.5}');
-</script><script src="https://axaneamului.ro/js/search.51ac6b48f77614a4e0a111594a4aba063ceb7fed1218c5586191c1d252b8c060.js" integrity="sha256-UaxrSPd2FKTgoRFZSkq6Bjzrf&#43;0SGMVYYZHB0lK4wGA=" crossorigin="anonymous"></script></body>
+</script><script src="https://axaneamului.ro/js/search.c5e3f9c7aa58b89f1384494d26a9ad740b241de3eb68c6027ed1c7eadb663ae8.js" integrity="sha256-xeP5x6pYuJ8ThElNJqmtdAskHePraMYCftHH6ttmOug=" crossorigin="anonymous"></script></body>
 </html>
