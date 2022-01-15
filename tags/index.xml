@@ -7,13 +7,49 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ro</language>
     <copyright>Copyright © {year} AXA. Toate drepturile rezervate.</copyright>
-    <lastBuildDate>Thu, 05 May 2016 03:26:00 +0800</lastBuildDate><atom:link href="https://axaneamului.ro/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jun 2016 03:26:00 +0800</lastBuildDate><atom:link href="https://axaneamului.ro/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mihai Eminescu</title>
+      <link>https://axaneamului.ro/tags/mihai-eminescu/</link>
+      <pubDate>Wed, 01 Jun 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/tags/mihai-eminescu/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>evrei</title>
       <link>https://axaneamului.ro/tags/evrei/</link>
       <pubDate>Thu, 05 May 2016 03:26:00 +0800</pubDate>
       
       <guid>https://axaneamului.ro/tags/evrei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mișcarea Legionară</title>
+      <link>https://axaneamului.ro/tags/mi%C8%99carea-legionar%C4%83/</link>
+      <pubDate>Wed, 24 Feb 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/tags/mi%C8%99carea-legionar%C4%83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naționalism</title>
+      <link>https://axaneamului.ro/tags/na%C8%9Bionalism/</link>
+      <pubDate>Fri, 12 Feb 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/tags/na%C8%9Bionalism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vot</title>
+      <link>https://axaneamului.ro/tags/vot/</link>
+      <pubDate>Tue, 09 Feb 2016 03:26:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/tags/vot/</guid>
       <description></description>
     </item>
     
@@ -27,7 +63,7 @@
     </item>
     
     <item>
-      <title>politică</title>
+      <title>Politică</title>
       <link>https://axaneamului.ro/tags/politic%C4%83/</link>
       <pubDate>Wed, 01 Apr 2009 02:15:00 +0000</pubDate>
       
@@ -131,15 +167,6 @@
       <pubDate>Fri, 16 May 2008 04:14:00 +0000</pubDate>
       
       <guid>https://axaneamului.ro/tags/guvernare/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mihai Eminescu</title>
-      <link>https://axaneamului.ro/tags/mihai-eminescu/</link>
-      <pubDate>Fri, 16 May 2008 04:14:00 +0000</pubDate>
-      
-      <guid>https://axaneamului.ro/tags/mihai-eminescu/</guid>
       <description></description>
     </item>
     
@@ -630,29 +657,11 @@
     </item>
     
     <item>
-      <title>dreapta</title>
-      <link>https://axaneamului.ro/tags/dreapta/</link>
-      <pubDate>Fri, 01 Feb 2008 02:58:00 +0000</pubDate>
-      
-      <guid>https://axaneamului.ro/tags/dreapta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>PCR</title>
       <link>https://axaneamului.ro/tags/pcr/</link>
       <pubDate>Fri, 01 Feb 2008 02:58:00 +0000</pubDate>
       
       <guid>https://axaneamului.ro/tags/pcr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>stânga</title>
-      <link>https://axaneamului.ro/tags/st%C3%A2nga/</link>
-      <pubDate>Fri, 01 Feb 2008 02:58:00 +0000</pubDate>
-      
-      <guid>https://axaneamului.ro/tags/st%C3%A2nga/</guid>
       <description></description>
     </item>
     
