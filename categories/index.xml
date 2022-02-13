@@ -117,15 +117,6 @@
     </item>
     
     <item>
-      <title>Document</title>
-      <link>https://axaneamului.ro/categories/document/</link>
-      <pubDate>Fri, 04 Apr 2008 02:00:00 +0000</pubDate>
-      
-      <guid>https://axaneamului.ro/categories/document/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kosovo</title>
       <link>https://axaneamului.ro/categories/kosovo/</link>
       <pubDate>Fri, 28 Mar 2008 09:02:00 +0000</pubDate>
@@ -194,6 +185,15 @@
       <pubDate>Fri, 29 Feb 2008 01:00:00 +0000</pubDate>
       
       <guid>https://axaneamului.ro/categories/basarabia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Document</title>
+      <link>https://axaneamului.ro/categories/document/</link>
+      <pubDate>Fri, 15 Feb 2008 07:10:00 +0000</pubDate>
+      
+      <guid>https://axaneamului.ro/categories/document/</guid>
       <description></description>
     </item>
     

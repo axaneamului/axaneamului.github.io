@@ -726,9 +726,6 @@
     <loc>https://axaneamului.ro/posts/magazine/axa-i/8/reactionarul-eminescu/</loc>
     <lastmod>2008-04-04T05:26:00+00:00</lastmod>
   </url><url>
-    <loc>https://axaneamului.ro/posts/magazine/axa-i/8/traduceri-din-presa-de-limba-maghiara-din-romania/</loc>
-    <lastmod>2008-04-04T05:26:00+00:00</lastmod>
-  </url><url>
     <loc>https://axaneamului.ro/categories/oglinda-vremii/</loc>
     <lastmod>2008-04-04T05:25:00+00:00</lastmod>
   </url><url>
@@ -750,7 +747,10 @@
     <loc>https://axaneamului.ro/posts/magazine/axa-i/8/nadejdea-si-inselarea/</loc>
     <lastmod>2008-04-04T05:16:00+00:00</lastmod>
   </url><url>
-    <loc>https://axaneamului.ro/categories/document/</loc>
+    <loc>https://axaneamului.ro/posts/magazine/axa-i/8/traduceri-din-presa-de-limba-maghiara-din-romania/</loc>
+    <lastmod>2008-04-04T03:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axaneamului.ro/tags/document/</loc>
     <lastmod>2008-04-04T02:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/posts/magazine/axa-i/8/partium-sau-despre-iredentismul-maghiar/</loc>
@@ -913,6 +913,9 @@
     <lastmod>2008-02-15T07:16:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/authors/simon-telkes/</loc>
+    <lastmod>2008-02-15T07:10:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axaneamului.ro/categories/document/</loc>
     <lastmod>2008-02-15T07:10:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/tags/maghiarizare/</loc>
