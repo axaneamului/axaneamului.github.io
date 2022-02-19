@@ -451,6 +451,78 @@ Ai revărsat, părinte!</p>
 </div>
 
 </footer>
+<style>
+    #consent-notice {padding: 1rem 1rem; display: none; text-align: center; position: fixed; bottom: 0; width: 100%; background: #222; color: rgba(255,255,255,0.8);}
+    #consent-notice span {margin-right: 1rem;}
+    #consent-notice button {cursor: pointer; display: inline-block; width: auto;}
+    #consent-notice span a {color: inherit; text-decoration: underline; text-decoration-color: rgba(255,255,255,0.5);}
+    #consent-notice button.btn {margin-left: 0.5rem;}
+    #consent-notice button.btn.approve-consent {background: rgba(255,255,255,0.1); font-weight: normal; color: #FFF;}
+</style>
+<div id="consent-notice"><span>Pentru îmbunătățirea funcționalității sale, acest site web folosește cookie-uri.</span><button class="btn approve-consent">Permite</button></div>
+<script>
+    const scripts = [];
+
+    function createCookie(name,value,days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days*24*60*60*1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + value + expires + "; path=/; SameSite=Lax";
+    }
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
+    }
+    function eraseCookie(name) {
+        createCookie(name,"",-1);
+    }
+    function acceptAllConsentScripts() {
+        var consentValue = "accepted";
+        scripts.forEach(function(){
+            consentValue = consentValue + "1";
+        });
+        acceptSomeConsentScripts(consentValue);
+    }
+    function acceptSomeConsentScripts(consentValue) {
+        createCookie('consent-settings',consentValue,31);
+        document.getElementById('consent-notice').style.display = 'none';
+        loadConsentScripts(consentValue);
+    }
+    function loadConsentScripts(consentValue) {
+        scripts.forEach(function(value,key){
+            
+            if(consentValue[key]=="1") {
+                var s = document.createElement('script');
+                s.type = 'text/javascript';
+                s.src = value;
+                document.body.appendChild(s);
+            }
+        });
+    }
+    if(readCookie('consent-settings')) {
+        var consentValue = readCookie('consent-settings').toString();
+        console.log(consentValue);
+        loadConsentScripts(consentValue);
+    } else {
+        document.getElementById('consent-notice').style.display = 'block';
+    }
+    var elements = document.querySelectorAll('.approve-consent');
+    elements.forEach(function(el) {
+        el.addEventListener("click",function() {
+            acceptAllConsentScripts();
+        });
+    });
+</script>
+
 <script src="https://axaneamului.ro/js/main.min.bcf31478de97889b506ca8e011fca0740431cb3226ab4e91c494e7120ce4abc3.js" integrity="sha256-vPMUeN6XiJtQbKjgEfygdAQxyzImq06RxJTnEgzkq8M=" crossorigin="anonymous" defer></script><script src="https://axaneamului.ro/js/icons.min.34f4b6a3f090d51ffd4ab842dbbc9262e8e49ec3f21e46489abf430c4b0964ae.js" integrity="sha256-NPS2o/CQ1R/9SrhC27ySYujknsPyHkZImr9DDEsJZK4=" crossorigin="anonymous" defer></script>
 <script>
 if ('serviceWorker' in navigator) {
