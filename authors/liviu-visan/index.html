@@ -400,6 +400,7 @@ Poveste medievală O tainică legendă medievală...<p class="text-end"><a class
 </div>
 
 </footer>
+
 <style>
     #consent-notice {padding: 1rem 1rem; display: none; text-align: center; position: fixed; bottom: 0; width: 100%; background: #222; color: rgba(255,255,255,0.8);}
     #consent-notice span {margin-right: 1rem;}
@@ -459,7 +460,7 @@ Poveste medievală O tainică legendă medievală...<p class="text-end"><a class
     }
     if(readCookie('consent-settings')) {
         var consentValue = readCookie('consent-settings').toString();
-        console.log(consentValue);
+        
         loadConsentScripts(consentValue);
     } else {
         document.getElementById('consent-notice').style.display = 'block';
