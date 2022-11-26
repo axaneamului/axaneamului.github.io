@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Știri on AXA</title>
+    <link>https://axaneamului.ro/categories/%C8%99tiri/</link>
+    <description>Recent content in Știri on AXA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ro</language>
+    <copyright>Copyright © {year} AXA. Toate drepturile rezervate.</copyright>
+    <lastBuildDate>Fri, 04 Feb 2022 00:01:00 +0800</lastBuildDate><atom:link href="https://axaneamului.ro/categories/%C8%99tiri/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AXA merge înainte…</title>
+      <link>https://axaneamului.ro/posts/news/axa-merge-inainte/</link>
+      <pubDate>Fri, 04 Feb 2022 00:01:00 +0800</pubDate>
+      
+      <guid>https://axaneamului.ro/posts/news/axa-merge-inainte/</guid>
+      <description>Revista Axa, fondată și coordonată de regretatul scriitor Mugur Vasiliu, își reia activitatea după o pauză de aproximativ 12 ani.
+În aceste vremuri tulburi, când ființa națională a românului e amenințată din toate părțile, considerăm acest demers ca o necesitate pregnantă de a transmite tuturor românilor un mesaj de importanță vitală pentru existența lor (a noastră) ca neam.
+Axa își propune, așa cum a făcut-o încă de la prima sa apariție, să-i ajute pe români să ajungă la o cât mai completă și adâncă cunoaștere de sine, prin abordarea unor teme fundamentale ale românismului, având ca scop declarat redeșteptarea conștiinței naționale la români.</description>
+    </item>
+    
+  </channel>
+</rss>
