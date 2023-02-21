@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ro</language>
     <copyright>Copyright © {year} AXA. Toate drepturile rezervate.</copyright>
-    <lastBuildDate>Tue, 08 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://axaneamului.ro/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://axaneamului.ro/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sfânta Tradiție</title>
+      <link>https://axaneamului.ro/categories/sf%C3%A2nta-tradi%C8%9Bie/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://axaneamului.ro/categories/sf%C3%A2nta-tradi%C8%9Bie/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Politică</title>
       <link>https://axaneamului.ro/categories/politic%C4%83/</link>
@@ -257,15 +266,6 @@
       <pubDate>Fri, 15 Feb 2008 05:06:00 +0000</pubDate>
       
       <guid>https://axaneamului.ro/categories/rug%C4%83ciune/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sfânta Tradiție</title>
-      <link>https://axaneamului.ro/categories/sf%C3%A2nta-tradi%C8%9Bie/</link>
-      <pubDate>Fri, 15 Feb 2008 05:06:00 +0000</pubDate>
-      
-      <guid>https://axaneamului.ro/categories/sf%C3%A2nta-tradi%C8%9Bie/</guid>
       <description></description>
     </item>
     
