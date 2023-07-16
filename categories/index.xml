@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ro</language>
     <copyright>Copyright © {year} AXA. Toate drepturile rezervate.</copyright>
-    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://axaneamului.ro/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://axaneamului.ro/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Poezie și proză</title>
       <link>https://axaneamului.ro/categories/poezie-%C8%99i-proz%C4%83/</link>
-      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://axaneamului.ro/categories/poezie-%C8%99i-proz%C4%83/</guid>
       <description></description>
@@ -171,6 +171,15 @@
     </item>
     
     <item>
+      <title>Cronică ortodoxă</title>
+      <link>https://axaneamului.ro/categories/cronic%C4%83-ortodox%C4%83/</link>
+      <pubDate>Fri, 04 Apr 2008 06:00:00 +0000</pubDate>
+      
+      <guid>https://axaneamului.ro/categories/cronic%C4%83-ortodox%C4%83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Învățături ale Sfinților Părinți</title>
       <link>https://axaneamului.ro/categories/%C3%AEnv%C4%83%C8%9B%C4%83turi-ale-sfin%C8%9Bilor-p%C4%83rin%C8%9Bi/</link>
       <pubDate>Fri, 04 Apr 2008 06:00:00 +0000</pubDate>
@@ -221,15 +230,6 @@
       <pubDate>Fri, 28 Mar 2008 06:00:00 +0000</pubDate>
       
       <guid>https://axaneamului.ro/categories/mihai-eminescu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cronică ortodoxă</title>
-      <link>https://axaneamului.ro/categories/cronic%C4%83-ortodox%C4%83/</link>
-      <pubDate>Fri, 28 Mar 2008 05:00:00 +0000</pubDate>
-      
-      <guid>https://axaneamului.ro/categories/cronic%C4%83-ortodox%C4%83/</guid>
       <description></description>
     </item>
     
