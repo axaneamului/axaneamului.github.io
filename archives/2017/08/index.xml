@@ -6,6 +6,7 @@
     <description>Recent content in August on AXA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ro</language>
-    <copyright>Copyright © {year} AXA. Toate drepturile rezervate.</copyright><atom:link href="https://axaneamului.ro/archives/2017/08/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © {year} AXA. Toate drepturile rezervate.</copyright>
+    <atom:link href="https://axaneamului.ro/archives/2017/08/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

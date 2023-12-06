@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ro</language>
     <copyright>Copyright © {year} AXA. Toate drepturile rezervate.</copyright>
-    <lastBuildDate>Wed, 01 Jul 2009 05:00:00 +0000</lastBuildDate><atom:link href="https://axaneamului.ro/tags/gyrul/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jul 2009 05:00:00 +0000</lastBuildDate>
+    <atom:link href="https://axaneamului.ro/tags/gyrul/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Balada clopotarului din stele</title>
       <link>https://axaneamului.ro/posts/magazine/axa-ii/20/balada-clopotarului-din-stele/</link>
       <pubDate>Wed, 01 Jul 2009 05:00:00 +0000</pubDate>
-      
       <guid>https://axaneamului.ro/posts/magazine/axa-ii/20/balada-clopotarului-din-stele/</guid>
       <description>A plecat moțul cu gloata.
 Pumnii-s tari și pașii grei,
@@ -30,12 +30,10 @@ Nu cerșind din poartă-n poartă,
 nici flămând din loc în loc,
 ci cu umblet ce nu iartă</description>
     </item>
-    
     <item>
       <title>Balada ucenicului cu ochi albaștri</title>
       <link>https://axaneamului.ro/posts/magazine/axa-ii/19/balada-ucenicului-cu-ochi-albastri/</link>
       <pubDate>Tue, 16 Jun 2009 05:00:00 +0000</pubDate>
-      
       <guid>https://axaneamului.ro/posts/magazine/axa-ii/19/balada-ucenicului-cu-ochi-albastri/</guid>
       <description>Aplecat peste argilă,
 suduind cu foc,
@@ -57,12 +55,10 @@ tot ce-am scos din mângâieri
 răsărituri dulci,
 nu vă vrea nici târg, nici bâlci,</description>
     </item>
-    
     <item>
       <title>As-noapte, Iisus…</title>
       <link>https://axaneamului.ro/posts/magazine/axa-ii/14/as-noapte-iisus/</link>
       <pubDate>Wed, 01 Apr 2009 04:00:00 +0000</pubDate>
-      
       <guid>https://axaneamului.ro/posts/magazine/axa-ii/14/as-noapte-iisus/</guid>
       <description>As-noapte, Iisus mi-a intrat în celulă.
 O, ce trist și ce înalt părea Crist!
@@ -76,12 +72,10 @@ Uimit am sărit de sub pătura sură:
 - Doamne, de unde vii? Din ce veac?
 Iisus a dus lin un deget la gură</description>
     </item>
-    
     <item>
       <title>Balada cetății fără icoane</title>
       <link>https://axaneamului.ro/posts/magazine/axa-i/12/balada-cetatii-fara-icoane/</link>
       <pubDate>Fri, 23 May 2008 11:40:00 +0000</pubDate>
-      
       <guid>https://axaneamului.ro/posts/magazine/axa-i/12/balada-cetatii-fara-icoane/</guid>
       <description>Din Urali spre Soare-Apune,
 cum veneau încinși cu piei,
@@ -102,6 +96,5 @@ numai viscol de lãcuste.
 Bãlți de moarte sub copite,
 scãri de leșuri sub hanger,</description>
     </item>
-    
   </channel>
 </rss>
