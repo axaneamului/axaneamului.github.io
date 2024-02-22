@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ro</language>
     <copyright>Copyright © {year} AXA. Toate drepturile rezervate.</copyright>
-    <lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://axaneamului.ro/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Știri</title>
+      <link>https://axaneamului.ro/categories/%C8%99tiri/</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://axaneamului.ro/categories/%C8%99tiri/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Poezie și proză</title>
       <link>https://axaneamului.ro/categories/poezie-%C8%99i-proz%C4%83/</link>
@@ -42,13 +49,6 @@
       <link>https://axaneamului.ro/categories/sf%C3%A2nta-tradi%C8%9Bie/</link>
       <pubDate>Tue, 13 Jun 2023 02:00:00 +0000</pubDate>
       <guid>https://axaneamului.ro/categories/sf%C3%A2nta-tradi%C8%9Bie/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Știri</title>
-      <link>https://axaneamului.ro/categories/%C8%99tiri/</link>
-      <pubDate>Thu, 25 May 2023 00:01:00 +0800</pubDate>
-      <guid>https://axaneamului.ro/categories/%C8%99tiri/</guid>
       <description></description>
     </item>
     <item>
