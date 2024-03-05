@@ -25,7 +25,7 @@
     "@type": "BlogPosting",
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https:\/\/axaneamului.ro"
+        "@id": "https:\/\/axaneamului.ro\/"
     },
     "articleSection": "search",
     "name": "Search",
@@ -219,11 +219,11 @@
       <div class="post-meta mb-3">
         <span class="post-author">Scris de {{author}}</span>
         <span class="post-date">Publicat la {{date}}</span>{{#series}}
-        <a href="https://axaneamului.roseries/{{#url}}{{.}}{{/url}}/" class="badge rounded-pill post-taxonomy">{{.}}</a>
+        <a href="https://axaneamului.ro/series/{{#url}}{{.}}{{/url}}/" class="badge rounded-pill post-taxonomy">{{.}}</a>
         {{/series}}{{#categories}}
-        <a href="https://axaneamului.rocategories/{{#url}}{{.}}{{/url}}/" class="badge rounded-pill post-taxonomy">{{.}}</a>
+        <a href="https://axaneamului.ro/categories/{{#url}}{{.}}{{/url}}/" class="badge rounded-pill post-taxonomy">{{.}}</a>
         {{/categories}}{{#tags}}
-        <a href="https://axaneamului.rotags/{{#url}}{{.}}{{/url}}/" class="badge rounded-pill post-taxonomy">{{.}}</a>
+        <a href="https://axaneamului.ro/tags/{{#url}}{{.}}{{/url}}/" class="badge rounded-pill post-taxonomy">{{.}}</a>
         {{/tags}}</div>
       <div class="search-result-content mb-3">
         {{#img}}<img src="{{img}}"/>{{/img}}
