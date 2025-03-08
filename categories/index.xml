@@ -9,8 +9,15 @@
     <managingEditor>contact@axaneamului.ro (AXA)</managingEditor>
     <webMaster>contact@axaneamului.ro (AXA)</webMaster>
     <copyright>Copyright © {year} AXA. Toate drepturile rezervate.</copyright>
-    <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://axaneamului.ro/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Politică</title>
+      <link>https://axaneamului.ro/categories/politic%C4%83/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate><author>contact@axaneamului.ro (AXA)</author>
+      <guid>https://axaneamului.ro/categories/politic%C4%83/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Știri</title>
       <link>https://axaneamului.ro/categories/%C8%99tiri/</link>
@@ -44,13 +51,6 @@
       <link>https://axaneamului.ro/categories/social/</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate><author>contact@axaneamului.ro (AXA)</author>
       <guid>https://axaneamului.ro/categories/social/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Politică</title>
-      <link>https://axaneamului.ro/categories/politic%C4%83/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate><author>contact@axaneamului.ro (AXA)</author>
-      <guid>https://axaneamului.ro/categories/politic%C4%83/</guid>
       <description></description>
     </item>
     <item>
