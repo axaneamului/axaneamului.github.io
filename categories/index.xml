@@ -9,8 +9,15 @@
     <managingEditor>contact@axaneamului.ro (AXA)</managingEditor>
     <webMaster>contact@axaneamului.ro (AXA)</webMaster>
     <copyright>Copyright © {year} AXA. Toate drepturile rezervate.</copyright>
-    <lastBuildDate>Sun, 07 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://axaneamului.ro/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sfânta Tradiție</title>
+      <link>https://axaneamului.ro/categories/sf%C3%A2nta-tradi%C8%9Bie/</link>
+      <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate><author>contact@axaneamului.ro (AXA)</author>
+      <guid>https://axaneamului.ro/categories/sf%C3%A2nta-tradi%C8%9Bie/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Social</title>
       <link>https://axaneamului.ro/categories/social/</link>
@@ -23,13 +30,6 @@
       <link>https://axaneamului.ro/categories/poezie-%C8%99i-proz%C4%83/</link>
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate><author>contact@axaneamului.ro (AXA)</author>
       <guid>https://axaneamului.ro/categories/poezie-%C8%99i-proz%C4%83/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sfânta Tradiție</title>
-      <link>https://axaneamului.ro/categories/sf%C3%A2nta-tradi%C8%9Bie/</link>
-      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate><author>contact@axaneamului.ro (AXA)</author>
-      <guid>https://axaneamului.ro/categories/sf%C3%A2nta-tradi%C8%9Bie/</guid>
       <description></description>
     </item>
     <item>
