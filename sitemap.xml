@@ -15,7 +15,7 @@
     <lastmod>2008-02-08T07:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/posts/magazine/axa-iii/</loc>
-    <lastmod>2010-08-16T02:00:00+00:00</lastmod>
+    <lastmod>2010-08-16T03:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/posts/magazine/axa-i/3/</loc>
     <lastmod>2008-02-15T08:00:00+00:00</lastmod>
@@ -143,7 +143,7 @@
     <lastmod>2010-08-01T17:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/posts/magazine/axa-iii/45/</loc>
-    <lastmod>2010-08-16T02:00:00+00:00</lastmod>
+    <lastmod>2010-08-16T03:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/posts/magazine/axa-iii/46/</loc>
   </url><url>
@@ -1258,24 +1258,30 @@
     <lastmod>2011-01-01T03:26:00+08:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/authors/fcrchm/</loc>
-    <lastmod>2010-08-16T02:00:00+00:00</lastmod>
+    <lastmod>2010-08-16T03:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/year/2010/</loc>
-    <lastmod>2010-08-16T02:00:00+00:00</lastmod>
+    <lastmod>2010-08-16T03:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/month/2010-08/</loc>
-    <lastmod>2010-08-16T02:00:00+00:00</lastmod>
+    <lastmod>2010-08-16T03:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axaneamului.ro/posts/magazine/axa-iii/45/apel-al-forumului-civic-al-romanilor-din-covasna-harghita-si-mures/</loc>
+    <lastmod>2010-08-16T03:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/series/axa-anul-iii/</loc>
-    <lastmod>2010-08-16T02:00:00+00:00</lastmod>
+    <lastmod>2010-08-16T03:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://axaneamului.ro/posts/magazine/axa-iii/45/raportul-mincinos-si-criminal-al-maghiarimii-inaintat-catre-onu/</loc>
-    <lastmod>2010-08-16T02:00:00+00:00</lastmod>
+    <loc>https://axaneamului.ro/categories/maghiari/</loc>
+    <lastmod>2010-08-16T03:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/posts/magazine/</loc>
-    <lastmod>2010-08-16T02:00:00+00:00</lastmod>
+    <lastmod>2010-08-16T03:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/series/</loc>
+    <lastmod>2010-08-16T03:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axaneamului.ro/posts/magazine/axa-iii/45/raportul-mincinos-si-criminal-al-maghiarimii-inaintat-catre-onu/</loc>
     <lastmod>2010-08-16T02:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/posts/magazine/axa-iii/45/atentat-la-siguranta-nationala-comunicat/</loc>
@@ -1300,6 +1306,9 @@
     <lastmod>2010-08-01T17:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/authors/centrul-european-de-studii-covasna-harghita/</loc>
+    <lastmod>2010-08-01T16:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axaneamului.ro/tags/maghiari/</loc>
     <lastmod>2010-08-01T16:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/tags/revista-presei-maghiare/</loc>
@@ -1882,9 +1891,6 @@
     <lastmod>2010-04-16T08:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/tags/harghita/</loc>
-    <lastmod>2010-04-16T08:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://axaneamului.ro/tags/maghiari/</loc>
     <lastmod>2010-04-16T08:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/tags/maghiarizare/</loc>
