@@ -1272,7 +1272,10 @@
     <loc>https://axaneamului.ro/series/axa-anul-iii/</loc>
     <lastmod>2010-08-16T03:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://axaneamului.ro/categories/maghiari/</loc>
+    <loc>https://axaneamului.ro/tags/comunicat/</loc>
+    <lastmod>2010-08-16T03:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axaneamului.ro/tags/maghiari/</loc>
     <lastmod>2010-08-16T03:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/posts/magazine/</loc>
@@ -1280,6 +1283,12 @@
   </url><url>
     <loc>https://axaneamului.ro/series/</loc>
     <lastmod>2010-08-16T03:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axaneamului.ro/tags/unguri/</loc>
+    <lastmod>2010-08-16T03:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axaneamului.ro/categories/maghiari/</loc>
+    <lastmod>2010-08-16T02:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/posts/magazine/axa-iii/45/raportul-mincinos-si-criminal-al-maghiarimii-inaintat-catre-onu/</loc>
     <lastmod>2010-08-16T02:00:00+00:00</lastmod>
@@ -1308,9 +1317,6 @@
     <loc>https://axaneamului.ro/authors/centrul-european-de-studii-covasna-harghita/</loc>
     <lastmod>2010-08-01T16:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://axaneamului.ro/tags/maghiari/</loc>
-    <lastmod>2010-08-01T16:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://axaneamului.ro/tags/revista-presei-maghiare/</loc>
     <lastmod>2010-08-01T16:00:00+00:00</lastmod>
   </url><url>
@@ -1318,9 +1324,6 @@
     <lastmod>2010-08-01T16:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/authors/miscarea-nationala-de-rezistenta/</loc>
-    <lastmod>2010-08-01T15:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://axaneamului.ro/tags/comunicat/</loc>
     <lastmod>2010-08-01T15:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/posts/magazine/axa-iii/44/comunicat-al-miscarii-nationale-de-rezistenta/</loc>
@@ -1629,9 +1632,6 @@
     <loc>https://axaneamului.ro/tags/autonomie/</loc>
     <lastmod>2010-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://axaneamului.ro/categories/revista-presei-maghiare/</loc>
-    <lastmod>2010-06-01T13:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://axaneamului.ro/posts/magazine/axa-iii/40/revista-presei-maghiare-din-romania/</loc>
     <lastmod>2010-06-01T13:00:00+00:00</lastmod>
   </url><url>
@@ -1642,9 +1642,6 @@
     <lastmod>2010-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/tags/%C8%9Binutul-secuiesc/</loc>
-    <lastmod>2010-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://axaneamului.ro/tags/unguri/</loc>
     <lastmod>2010-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/authors/stefan-plamadeala/</loc>
@@ -1891,9 +1888,6 @@
     <lastmod>2010-04-16T08:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/tags/harghita/</loc>
-    <lastmod>2010-04-16T08:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://axaneamului.ro/tags/maghiarizare/</loc>
     <lastmod>2010-04-16T08:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/posts/magazine/axa-iii/37/cand-esti-nicovala-rabzi-cand-esti-ciocan-dai/</loc>
@@ -2683,6 +2677,9 @@
     <lastmod>2009-09-16T03:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/posts/magazine/axa-ii/25/documentar/</loc>
+    <lastmod>2009-09-16T02:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://axaneamului.ro/tags/secui/</loc>
     <lastmod>2009-09-16T02:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/posts/magazine/axa-ii/25/partium/</loc>
@@ -3694,9 +3691,6 @@
     <lastmod>2008-02-15T02:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/posts/magazine/axa-i/3/cum-sa-maghiarizam-numele-de-familie/</loc>
-    <lastmod>2008-02-15T02:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://axaneamului.ro/tags/nume/</loc>
     <lastmod>2008-02-15T02:00:00+00:00</lastmod>
   </url><url>
     <loc>https://axaneamului.ro/tags/ideologii/</loc>
