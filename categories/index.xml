@@ -9,8 +9,15 @@
     <managingEditor>contact@axaneamului.ro (AXA)</managingEditor>
     <webMaster>contact@axaneamului.ro (AXA)</webMaster>
     <copyright>Copyright © {year} AXA. Toate drepturile rezervate.</copyright>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://axaneamului.ro/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Poezie Și Proză</title>
+      <link>https://axaneamului.ro/categories/poezie-%C8%99i-proz%C4%83/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate><author>contact@axaneamului.ro (AXA)</author>
+      <guid>https://axaneamului.ro/categories/poezie-%C8%99i-proz%C4%83/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Icoana Din Adânc</title>
       <link>https://axaneamului.ro/categories/icoana-din-ad%C3%A2nc/</link>
@@ -23,13 +30,6 @@
       <link>https://axaneamului.ro/categories/sf%C3%A2nta-tradi%C8%9Bie/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate><author>contact@axaneamului.ro (AXA)</author>
       <guid>https://axaneamului.ro/categories/sf%C3%A2nta-tradi%C8%9Bie/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Poezie Și Proză</title>
-      <link>https://axaneamului.ro/categories/poezie-%C8%99i-proz%C4%83/</link>
-      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate><author>contact@axaneamului.ro (AXA)</author>
-      <guid>https://axaneamului.ro/categories/poezie-%C8%99i-proz%C4%83/</guid>
       <description></description>
     </item>
     <item>
