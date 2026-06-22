@@ -1,29 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Comunicat on AXA</title>
-    <link>https://axaneamului.ro/tags/comunicat/</link>
-    <description>Recent content in Comunicat on AXA</description>
-    <generator>Hugo</generator>
-    <language>ro</language>
-    <managingEditor>contact@axaneamului.ro (AXA)</managingEditor>
-    <webMaster>contact@axaneamului.ro (AXA)</webMaster>
-    <copyright>Copyright © {year} AXA. Toate drepturile rezervate.</copyright>
-    <lastBuildDate>Mon, 16 Aug 2010 03:00:00 +0000</lastBuildDate>
-    <atom:link href="https://axaneamului.ro/tags/comunicat/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Apel al forumului civic al românilor din Covasna, Harghita și Mureș</title>
-      <link>https://axaneamului.ro/posts/magazine/axa-iii/45/apel-al-forumului-civic-al-romanilor-din-covasna-harghita-si-mures/</link>
-      <pubDate>Mon, 16 Aug 2010 03:00:00 +0000</pubDate><author>contact@axaneamului.ro (AXA)</author>
-      <guid>https://axaneamului.ro/posts/magazine/axa-iii/45/apel-al-forumului-civic-al-romanilor-din-covasna-harghita-si-mures/</guid>
-      <description>&lt;p  class=&#34;font-size-xl fw-bold&#34;&gt;La împlinirea a 70 de ani de la Dictatul de la Viena solicităm clasei politice românești, mediului academic, reprezentanților societății civile și ai mass-media să adopte o poziție fermă față de prezența în spațiul public românesc a unor discursuri nostalgice, revizioniste, autonomiste și antiromânești&lt;/p&gt;&#xA;&#xA;&lt;p&gt;La împlinirea a 70 de ani de la Dictatul de la Viena, adoptat la 30 august 1940, în urma hotărârilor lui Hitler și Mussolini, prin care Transilvania de Nord-Est a fost smulsă din trupul țării și cedată Ungariei hortiste, Centrul European de Studii Covasna-Harghita (CESCH) va tipări „&lt;i&gt;Studiul documentar asupra atrocităților comise de unguri față de popușația română din Ardeal în perioada 1940-1945&lt;/i&gt;&#34;, document elaborat de Biroul Contrainformații din cadrul Marelui Stat Major al Armatei Române, aflat în arhiva Ministerului Apărării Naționale și alte documente inedite din fondurile arhivistice aflate în păstrarea Arhivelor Naționale. În paginile acestor documente, sunt redate o cantitate impresionantă de informații despre manifestările de maximă intoleranță ale armatei și populației civile maghiare față de populația românească, instituțiile identitare — în primul rând bisericile ortodoxe și greco-catolice și școlile în limba română — instituțiile și asociațiile culturale, presa în limba română, monumentele de for public și tot ceea era românesc.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>COMUNICAT AL MIȘCĂRII NAȚIONALE DE REZISTENȚĂ</title>
-      <link>https://axaneamului.ro/posts/magazine/axa-iii/44/comunicat-al-miscarii-nationale-de-rezistenta/</link>
-      <pubDate>Sun, 01 Aug 2010 15:00:00 +0000</pubDate><author>contact@axaneamului.ro (AXA)</author>
-      <guid>https://axaneamului.ro/posts/magazine/axa-iii/44/comunicat-al-miscarii-nationale-de-rezistenta/</guid>
-      <description>&lt;p&gt;Mișcarea Națională de Rezistență este alcătuită din asociații nonguvernamentale, publicații și persoane care sunt preocupate de situația actuală a societății civile românești și care înțeleg să se implice în încercarea de a redresa această situație.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Analizând situația actuală a societății civile românești, Mișcarea Națională de Rezistență aduce la cunoștință celor care sunt interesați de problemele cu care se confruntă românii, concluziile întâlnirii de la Mânăstirea Sâmbăta de Sus:&lt;/p&gt;&#xA;&#xA;&lt;ol type=&#34;1&#34;&gt;&#xA;  &lt;li&gt;România nu se află doar într-o criză economică, ci mai înainte de toate într-o criză morală; criza economică este urmarea crizei politice, care la rândul ei este generată de criza morală;&lt;/li&gt;&#xA;&#xA;  &lt;li&gt;Ieșirea din această stare de fapt nu poate fi făcută pe cale politică, în România neexistând nici un partid politic parlamentar care să-și merite numele și locul;&lt;/li&gt;&#xA;&#xA;  &lt;li&gt;Ca urmare, Mișcarea Națională de Rezistență consideră că a sosit momentul participării la acțiunea noastră a tuturor românilor responsabili, pentru a reconstrui împreună adevărata societate civilă din România;&lt;/li&gt;&#xA;&#xA;  &lt;li&gt;Pentru aceasta, conducerea Mișcării Naționale de Rezistență cheamă la acțiune comună asociațiile nonguvernamentale, publicațiile neînregimentate politic, partinic sau unor interese străine, precum și persoanele care doresc să se implice în lupta națională.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&#xA;&lt;p&gt;Totodată, participanții la întâlnirea Mișcării Naționale de Rezistență de la Sâmbăta de Sus au adoptat textul unei scrisori deschise care definește starea societății civile actuale, scrisoare ce va fi publicată integral în numărul viitor al revistei.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Comunicat on AXA</title>
+		<link>https://axaneamului.ro/tags/comunicat/</link>
+		<description>Recent content in Comunicat on AXA</description>
+		<generator>Hugo</generator>
+		<language>ro</language>
+		
+			<managingEditor>contact@axaneamului.ro (AXA)</managingEditor>
+		
+		
+			<webMaster>contact@axaneamului.ro (AXA)</webMaster>
+		
+		
+			<copyright>Copyright © {year} AXA. Toate drepturile rezervate.</copyright>
+		
+		
+			<lastBuildDate>Mon, 16 Aug 2010 03:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://axaneamului.ro/tags/comunicat/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Apel al forumului civic al românilor din Covasna, Harghita și Mureș</title>
+				<link>https://axaneamului.ro/posts/magazine/axa-iii/45/apel-al-forumului-civic-al-romanilor-din-covasna-harghita-si-mures/</link>
+				<pubDate>Mon, 16 Aug 2010 03:00:00 +0000</pubDate><author>contact@axaneamului.ro (AXA)</author>
+				<guid>https://axaneamului.ro/posts/magazine/axa-iii/45/apel-al-forumului-civic-al-romanilor-din-covasna-harghita-si-mures/</guid>
+				<description>&lt;p  class=&#34;font-size-xl fw-bold&#34;&gt;La împlinirea a 70 de ani de la Dictatul de la Viena solicităm clasei politice românești, mediului academic, reprezentanților societății civile și ai mass-media să adopte o poziție fermă față de prezența în spațiul public românesc a unor discursuri nostalgice, revizioniste, autonomiste și antiromânești&lt;/p&gt;&#xA;&#xA;&lt;p&gt;La împlinirea a 70 de ani de la Dictatul de la Viena, adoptat la 30 august 1940, în urma hotărârilor lui Hitler și Mussolini, prin care Transilvania de Nord-Est a fost smulsă din trupul țării și cedată Ungariei hortiste, Centrul European de Studii Covasna-Harghita (CESCH) va tipări „&lt;i&gt;Studiul documentar asupra atrocităților comise de unguri față de popușația română din Ardeal în perioada 1940-1945&lt;/i&gt;&#34;, document elaborat de Biroul Contrainformații din cadrul Marelui Stat Major al Armatei Române, aflat în arhiva Ministerului Apărării Naționale și alte documente inedite din fondurile arhivistice aflate în păstrarea Arhivelor Naționale. În paginile acestor documente, sunt redate o cantitate impresionantă de informații despre manifestările de maximă intoleranță ale armatei și populației civile maghiare față de populația românească, instituțiile identitare — în primul rând bisericile ortodoxe și greco-catolice și școlile în limba română — instituțiile și asociațiile culturale, presa în limba română, monumentele de for public și tot ceea era românesc.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>COMUNICAT AL MIȘCĂRII NAȚIONALE DE REZISTENȚĂ</title>
+				<link>https://axaneamului.ro/posts/magazine/axa-iii/44/comunicat-al-miscarii-nationale-de-rezistenta/</link>
+				<pubDate>Sun, 01 Aug 2010 15:00:00 +0000</pubDate><author>contact@axaneamului.ro (AXA)</author>
+				<guid>https://axaneamului.ro/posts/magazine/axa-iii/44/comunicat-al-miscarii-nationale-de-rezistenta/</guid>
+				<description>&lt;p&gt;Mișcarea Națională de Rezistență este alcătuită din asociații nonguvernamentale, publicații și persoane care sunt preocupate de situația actuală a societății civile românești și care înțeleg să se implice în încercarea de a redresa această situație.&lt;/p&gt;&#xA;&#xA;&lt;p&gt;Analizând situația actuală a societății civile românești, Mișcarea Națională de Rezistență aduce la cunoștință celor care sunt interesați de problemele cu care se confruntă românii, concluziile întâlnirii de la Mânăstirea Sâmbăta de Sus:&lt;/p&gt;&#xA;&#xA;&lt;ol type=&#34;1&#34;&gt;&#xA;  &lt;li&gt;România nu se află doar într-o criză economică, ci mai înainte de toate într-o criză morală; criza economică este urmarea crizei politice, care la rândul ei este generată de criza morală;&lt;/li&gt;&#xA;&#xA;  &lt;li&gt;Ieșirea din această stare de fapt nu poate fi făcută pe cale politică, în România neexistând nici un partid politic parlamentar care să-și merite numele și locul;&lt;/li&gt;&#xA;&#xA;  &lt;li&gt;Ca urmare, Mișcarea Națională de Rezistență consideră că a sosit momentul participării la acțiunea noastră a tuturor românilor responsabili, pentru a reconstrui împreună adevărata societate civilă din România;&lt;/li&gt;&#xA;&#xA;  &lt;li&gt;Pentru aceasta, conducerea Mișcării Naționale de Rezistență cheamă la acțiune comună asociațiile nonguvernamentale, publicațiile neînregimentate politic, partinic sau unor interese străine, precum și persoanele care doresc să se implice în lupta națională.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&#xA;&lt;p&gt;Totodată, participanții la întâlnirea Mișcării Naționale de Rezistență de la Sâmbăta de Sus au adoptat textul unei scrisori deschise care definește starea societății civile actuale, scrisoare ce va fi publicată integral în numărul viitor al revistei.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
